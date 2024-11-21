@@ -4,7 +4,7 @@ BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 filename  : db/ddl_wilayah_boundaries.sql
 desc      : DDL table wilayah_boundaries
 created_at: 2024-11-20 11:25:23
-updated_at: 2024-11-20 11:31:50
+updated_at: 2024-11-21 09:34:24
 author    : cahya dsn
 ================================================================================
 MIT License
@@ -37,7 +37,6 @@ CREATE TABLE `wilayah_boundaries` (
   `nama` varchar(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
   `lat` double DEFAULT NULL,
   `lng` double DEFAULT NULL,
-  `luas` double DEFAULT NULL,
   `path` longtext CHARACTER SET utf8mb4 COLLATE utf8_general_ci,
   `status` int DEFAULT NULL,
   UNIQUE KEY `wilayah_boundaries_kode_IDX` (`kode`) USING BTREE
