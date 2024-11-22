@@ -13,7 +13,15 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - Data kodepos vs kode wilayah administrasi pemerintahan Indoensia : https://github.com/cahyadsn/wilayah_kodepos
 - Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
 
-## Donasi
+## TODO
+- penambahan data boundaries kabupaten/kota (on progress)
+- penambahan data boundaries kecamatan
+- penambahan data boundaries kelurahan/desa
+
+## CHANGE LOG
+- penambahan data boundaries provinsi (done 2024-11-21)
+
+## DONASI
 - untuk donasi via transfer
     - Bank Syariah Indonesia (BSI) 821-342-5550
     - Bank Sinarmas (153) 005 462 4719
