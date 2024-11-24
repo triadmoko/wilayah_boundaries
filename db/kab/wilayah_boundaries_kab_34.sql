@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_34.sql
-desc      : DDL table wilayah_boundaries kab 34 Daerah Istimewa Yogyakarta
+desc      : Data wilayah_boundaries kab 34 Daerah Istimewa Yogyakarta
 created_at: 2024-11-24 16:28:28
 updated_at: 2024-11-24 16:31:13
 author    : cahya dsn

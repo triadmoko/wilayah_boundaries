@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/prov/wilayah_boundaries_prov_7.sql
-desc      : DDL table wilayah_boundaries prov 7
+desc      : Data wilayah_boundaries prov 7
 created_at: 2024-11-22 01:33:33
 updated_at: 2024-11-24 16:34:30
 author    : cahya dsn

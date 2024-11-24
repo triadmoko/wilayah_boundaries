@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_14.sql
-desc      : DDL table wilayah_boundaries kab 14 Riau
+desc      : Data wilayah_boundaries kab 14 Riau
 created_at: 2024-11-24 07:41:44
 updated_at: 2024-11-24 07:43:49
 author    : cahya dsn

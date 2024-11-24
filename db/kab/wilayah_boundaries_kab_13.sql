@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_13.sql
-desc      : DDL table wilayah_boundaries kab 13 Sumatera Barat
+desc      : Data wilayah_boundaries kab 13 Sumatera Barat
 created_at: 2024-11-24 07:41:29
 updated_at: 2024-11-24 07:42:50
 author    : cahya dsn

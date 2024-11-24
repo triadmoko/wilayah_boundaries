@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_75.sql
-desc      : DDL table wilayah_boundaries kab 75 Gorontalo
+desc      : Data wilayah_boundaries kab 75 Gorontalo
 created_at: 2024-11-24 22:38:21
 updated_at: 2024-11-24 22:40:10
 author    : cahya dsn

@@ -14,11 +14,11 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
 
 ## TODO
-- penambahan data boundaries kabupaten/kota (on progress)
-- penambahan data boundaries kecamatan
+- penambahan data boundaries kecamatan (on progress)
 - penambahan data boundaries kelurahan/desa
 
 ## CHANGE LOG
+- penambahan data boundaries kabupaten/kota (done 2024-11-24)
 - penambahan data boundaries provinsi (done 2024-11-21)
 
 ## DONASI

@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_51.sql
-desc      : DDL table wilayah_boundaries kab 51 Bali
+desc      : Data wilayah_boundaries kab 51 Bali
 created_at: 2024-11-24 21:32:18
 updated_at: 2024-11-24 21:34:04
 author    : cahya dsn

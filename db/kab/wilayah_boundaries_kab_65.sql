@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_65.sql
-desc      : DDL table wilayah_boundaries kab 65 Kalimantan Utara
+desc      : Data wilayah_boundaries kab 65 Kalimantan Utara
 created_at: 2024-11-24 21:43:06
 updated_at: 2024-11-24 22:32:16
 author    : cahya dsn

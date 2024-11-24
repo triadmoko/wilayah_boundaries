@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_15.sql
-desc      : DDL table wilayah_boundaries kab 15 Jambi
+desc      : Data wilayah_boundaries kab 15 Jambi
 created_at: 2024-11-24 07:43:06
 updated_at: 2024-11-24 07:45:11
 author    : cahya dsn

@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_52.sql
-desc      : DDL table wilayah_boundaries kab 52 Nusa Tenggara Barat
+desc      : Data wilayah_boundaries kab 52 Nusa Tenggara Barat
 created_at: 2024-11-24 21:32:50
 updated_at: 2024-11-24 21:35:34
 author    : cahya dsn

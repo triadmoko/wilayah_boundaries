@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_18.sql
-desc      : DDL table wilayah_boundaries kab 18 Lampung
+desc      : Data wilayah_boundaries kab 18 Lampung
 created_at: 2024-11-24 07:45:32
 updated_at: 2024-11-24 07:48:40
 author    : cahya dsn

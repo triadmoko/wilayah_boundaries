@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_35.sql
-desc      : DDL table wilayah_boundaries kab 35 Jawa Timur
+desc      : Data wilayah_boundaries kab 35 Jawa Timur
 created_at: 2024-11-24 16:29:07
 updated_at: 2024-11-24 16:31:50
 author    : cahya dsn

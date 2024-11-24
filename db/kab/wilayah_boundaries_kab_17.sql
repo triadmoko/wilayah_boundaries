@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_17.sql
-desc      : DDL table wilayah_boundaries kab 17 Bengkulu
+desc      : Data wilayah_boundaries kab 17 Bengkulu
 created_at: 2024-11-24 07:44:40
 updated_at: 2024-11-24 07:48:50
 author    : cahya dsn

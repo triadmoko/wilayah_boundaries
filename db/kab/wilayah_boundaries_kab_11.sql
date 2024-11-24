@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_11.sql
-desc      : DDL table wilayah_boundaries kab 11 Aceh
+desc      : Data wilayah_boundaries kab 11 Aceh
 created_at: 2024-11-22 20:42:32
 updated_at: 2024-11-23 08:53:36
 author    : cahya dsn

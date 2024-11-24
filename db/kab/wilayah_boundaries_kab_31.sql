@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_31.sql
-desc      : DDL table wilayah_boundaries kab 31 DKI Jakarta
+desc      : Data wilayah_boundaries kab 31 DKI Jakarta
 created_at: 2024-11-24 16:26:26
 updated_at: 2024-11-24 16:30:22
 author    : cahya dsn

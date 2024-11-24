@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_64.sql
-desc      : DDL table wilayah_boundaries kab 64 Kalimantan Timur
+desc      : Data wilayah_boundaries kab 64 Kalimantan Timur
 created_at: 2024-11-24 21:42:07
 updated_at: 2024-11-24 21:44:21
 author    : cahya dsn

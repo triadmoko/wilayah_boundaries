@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_19.sql
-desc      : DDL table wilayah_boundaries kab 19 Kepulauan Bangka Belitung
+desc      : Data wilayah_boundaries kab 19 Kepulauan Bangka Belitung
 created_at: 2024-11-24 07:46:33
 updated_at: 2024-11-24 07:49:08
 author    : cahya dsn

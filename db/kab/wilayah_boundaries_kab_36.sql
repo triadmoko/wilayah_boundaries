@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_36.sql
-desc      : DDL table wilayah_boundaries kab 36 Banten
+desc      : Data wilayah_boundaries kab 36 Banten
 created_at: 2024-11-24 16:29:52
 updated_at: 2024-11-24 16:32:10
 author    : cahya dsn

@@ -2,7 +2,7 @@
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
 filename  : db/kab/wilayah_boundaries_kab_76.sql
-desc      : DDL table wilayah_boundaries kab 76 Sulawesi Barat
+desc      : Data wilayah_boundaries kab 76 Sulawesi Barat
 created_at: 2024-11-24 22:38:53
 updated_at: 2024-11-24 22:42:33
 author    : cahya dsn
