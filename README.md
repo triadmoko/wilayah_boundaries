@@ -23,7 +23,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 
 ## DONASI
 - untuk donasi via transfer
-    - Bank Syariah Indonesia (BSI) 821-342-5550
+    - Bank Syariah Indonesia (BSI) (451) 821-342-5550
     - Bank Sinarmas (153) 005 462 4719
     - Bank BCA Digital (Blu) (501) 000 576 776 186
 - untuk donasi via PayPal [https://paypal.me/cahyadwiana]
