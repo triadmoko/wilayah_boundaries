@@ -23,9 +23,9 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 31      | DKI Jakarta               |     done    | done |   done   |
 | 32      | Jawa Barat                |     done    | done |    -     |
 | 33      | Jawa Tengah               |     done    | done |    -     |
-| 34      | DI Yogyakarta             |     done    | done |    -     |
+| 34      | DI Yogyakarta             |     done    | done |   done   |
 | 35      | Jawa Timur                |     done    | done |    -     |
-| 36      | Banten                    |     done    | done |    -     |
+| 36      | Banten                    |     done    | done |   donw   |
 | 51      | Bali                      |     done    | done |   done   |
 | 52      | Nusa Tenggara Barat       |     done    | done |    -     |
 | 53      | Nusa Tenggara Timur       |     done    | done |    -     |
