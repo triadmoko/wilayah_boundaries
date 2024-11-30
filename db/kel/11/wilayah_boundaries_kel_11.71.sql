@@ -1,10 +1,10 @@
 /*
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
-filename  : db/kec/wilayah_boundaries_kel_11.71.sql
+filename  : db/kel/11/wilayah_boundaries_kel_11.71.sql
 desc      : Data wilayah_boundaries kel di kab 11.71 Kota Banda Aceh
 created_at: 2024-11-26 21:37:48
-updated_at: 2024-11-26 21:40:36
+updated_at: 2024-11-30 11:40:20
 author    : cahya dsn
 ================================================================================
 MIT License

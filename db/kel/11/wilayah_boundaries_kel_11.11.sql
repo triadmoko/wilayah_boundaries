@@ -1,10 +1,10 @@
 /*
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
-filename  : db/kec/wilayah_boundaries_kel_11.11.sql
+filename  : db/kel/11/wilayah_boundaries_kel_11.11.sql
 desc      : Data wilayah_boundaries kel di kab 11.11 Bireun
 created_at: 2024-11-26 19:40:40
-updated_at: 2024-11-26 19:44:10
+updated_at: 2024-11-30 11:38:29
 author    : cahya dsn
 ================================================================================
 MIT License

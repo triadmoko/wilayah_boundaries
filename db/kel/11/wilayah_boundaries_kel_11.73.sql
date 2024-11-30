@@ -1,10 +1,10 @@
 /*
 BISMILLAAHIRRAHMAANIRRAHIIM - In the Name of Allah, Most Gracious, Most Merciful
 ================================================================================
-filename  : db/kec/wilayah_boundaries_kel_11.73.sql
+filename  : db/kel/11/wilayah_boundaries_kel_11.73.sql
 desc      : Data wilayah_boundaries kel di kab 11.73 Kota Lhokseumawe
 created_at: 2024-11-26 21:43:38
-updated_at: 2024-11-26 21:46:50
+updated_at: 2024-11-30 11:40:43
 author    : cahya dsn
 ================================================================================
 MIT License
