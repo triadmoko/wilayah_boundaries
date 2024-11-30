@@ -8,11 +8,6 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
 [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/cahyadwiana)
 
-## TAUTAN TERKAIT
-- Data kode wilayah adminsitrasi pemerintahan Indonesia : https://github.com/cahyadsn/wilayah
-- Data kodepos vs kode wilayah administrasi pemerintahan Indoensia : https://github.com/cahyadsn/wilayah_kodepos
-- Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
-
 | id_prov | nama                      | kab / kota  | kec  | kel/desa |
 |---------|---------------------------|------------:|------|---------:|
 | 11      | Aceh                      |     done    | done |   done   |
@@ -55,6 +50,11 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 96      | Papua Barat Daya*         |       -     |   -  |    -     |
 
 * Boundaries Papua Barat dan Papua Barat Daya, sesuai dengan UU No 29 Tahun 2022 tentang Pembentukan Provinsi Papua Barat Daya (LN.2022/No.223, TLN No.6831, jdih.setneg.go.id: 15 hlm., 08 Desember 2022), namun kode wilayah tetap mengacu kepada Kepmendagri No 100.1.1-6117 Tahun 2022 karena belum ada peraturan/keputusan terbaru untuk mengakomodir pembentukan provinsi Papua Barat Daya tersebut. Kode wilayah 96 untuk Papua Barat Daya pada database ini bersifat tentative dan hanya untuk penanda saja.
+
+## TAUTAN TERKAIT
+- Data kode wilayah adminsitrasi pemerintahan Indonesia : https://github.com/cahyadsn/wilayah
+- Data kodepos vs kode wilayah administrasi pemerintahan Indoensia : https://github.com/cahyadsn/wilayah_kodepos
+- Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
   
 ## TODO
 - penambahan data boundaries kelurahan/desa (on progress)
