@@ -23,9 +23,9 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 31      | DKI Jakarta               |     done    | done |   done   |
 | 32      | Jawa Barat                |     done    | done |    -     |
 | 33      | Jawa Tengah               |     done    | done |    -     |
-| 34      | DI Yogyakarta             |     done    | done |    -     |
+| 34      | DI Yogyakarta             |     done    | done |   done   |
 | 35      | Jawa Timur                |     done    | done |    -     |
-| 36      | Banten                    |     done    | done |    -     |
+| 36      | Banten                    |     done    | done |   done   |
 | 51      | Bali                      |     done    | done |   done   |
 | 52      | Nusa Tenggara Barat       |     done    | done |    -     |
 | 53      | Nusa Tenggara Timur       |     done    | done |    -     |
@@ -47,9 +47,12 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 93      | Papua Selatan             |     done    | done |    -     |
 | 94      | Papua Tengah              |     done    | done |    -     |
 | 95      | Papua Pegunungan          |     done    | done |    -     |
-| 96      | Papua Barat Daya*         |       -     |   -  |    -     |
+| 96*     | Papua Barat Daya*         |       -     |   -  |    -     |
 
+## NOTE
 * Boundaries Papua Barat dan Papua Barat Daya, sesuai dengan UU No 29 Tahun 2022 tentang Pembentukan Provinsi Papua Barat Daya (LN.2022/No.223, TLN No.6831, jdih.setneg.go.id: 15 hlm., 08 Desember 2022), namun kode wilayah tetap mengacu kepada Kepmendagri No 100.1.1-6117 Tahun 2022 karena belum ada peraturan/keputusan terbaru untuk mengakomodir pembentukan provinsi Papua Barat Daya tersebut. Kode wilayah 96 untuk Papua Barat Daya pada database ini bersifat tentative dan hanya untuk penanda saja.
+* Koordinat latitude longitude diperhitungkan dari koordinat centroid dari polygon wilayah tersebut
+* Karena keterbatasan resources, wilayah boundaries berupa multipoliygon yang di simplified, untuk resolusi yang lebih tinggi akan dibuatkan repo tersendiri
 
 ## TAUTAN TERKAIT
 - Data kode wilayah adminsitrasi pemerintahan Indonesia : https://github.com/cahyadsn/wilayah
