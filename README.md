@@ -21,13 +21,13 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 19      | Kepulauan Bangka Belitung |     done    | done |    -     |
 | 21      | Kepulauan Riau            |     done    | done |    -     |
 | 31      | DKI Jakarta               |     done    | done |   done   |
-| 32      | Jawa Barat                |     done    | done |    -     |
-| 33      | Jawa Tengah               |     done    | done |    -     |
+| 32      | Jawa Barat                |     done    | done |   done   |
+| 33      | Jawa Tengah               |     done    | done |   done   |
 | 34      | DI Yogyakarta             |     done    | done |   done   |
-| 35      | Jawa Timur                |     done    | done |    -     |
+| 35      | Jawa Timur                |     done    | done |   done   |
 | 36      | Banten                    |     done    | done |   done   |
 | 51      | Bali                      |     done    | done |   done   |
-| 52      | Nusa Tenggara Barat       |     done    | done |    -     |
+| 52      | Nusa Tenggara Barat       |     done    | done |   done   |
 | 53      | Nusa Tenggara Timur       |     done    | done |    -     |
 | 61      | Kalimantan Barat          |     done    | done |    -     |
 | 62      | Kalimantan Tengah         |     done    | done |    -     |
@@ -58,7 +58,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - Data kode wilayah adminsitrasi pemerintahan Indonesia : https://github.com/cahyadsn/wilayah
 - Data kodepos vs kode wilayah administrasi pemerintahan Indoensia : https://github.com/cahyadsn/wilayah_kodepos
 - Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
-  
+
 ## TODO
 - penambahan data boundaries kelurahan/desa (on progress)
 
