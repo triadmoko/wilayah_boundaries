@@ -28,7 +28,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 36      | Banten                    |     done    | done |   done   |
 | 51      | Bali                      |     done    | done |   done   |
 | 52      | Nusa Tenggara Barat       |     done    | done |   done   |
-| 53      | Nusa Tenggara Timur       |     done    | done |    -     |
+| 53      | Nusa Tenggara Timur       |     done    | done |   done   |
 | 61      | Kalimantan Barat          |     done    | done |    -     |
 | 62      | Kalimantan Tengah         |     done    | done |    -     |
 | 63      | Kalimantan Selatan        |     done    | done |    -     |
