@@ -29,11 +29,11 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 51      | Bali                      |     done    | done |   done   |
 | 52      | Nusa Tenggara Barat       |     done    | done |   done   |
 | 53      | Nusa Tenggara Timur       |     done    | done |   done   |
-| 61      | Kalimantan Barat          |     done    | done |    -     |
-| 62      | Kalimantan Tengah         |     done    | done |    -     |
-| 63      | Kalimantan Selatan        |     done    | done |    -     |
-| 64      | Kalimantan Timur          |     done    | done |    -     |
-| 65      | Kalimantan Utara          |     done    | done |    -     |
+| 61      | Kalimantan Barat          |     done    | done |   done   |
+| 62      | Kalimantan Tengah         |     done    | done |   done   |
+| 63      | Kalimantan Selatan        |     done    | done |   done   |
+| 64      | Kalimantan Timur          |     done    | done |   done   |
+| 65      | Kalimantan Utara          |     done    | done |   done   |
 | 71      | Sulawesi Utara            |     done    | done |    -     |
 | 72      | Sulawesi Tengah           |     done    | done |    -     |
 | 73      | Sulawesi Selatan          |     done    | done |    -     |
