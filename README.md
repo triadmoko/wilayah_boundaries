@@ -37,9 +37,9 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 71      | Sulawesi Utara            |     done    | done |   done   |
 | 72      | Sulawesi Tengah           |     done    | done |   done   |
 | 73      | Sulawesi Selatan          |     done    | done |   done   |
-| 74      | Sulawesi Tenggara         |     done    | done |    -     |
-| 75      | Gorontalo                 |     done    | done |    -     |
-| 76      | Sulawesi Barat            |     done    | done |    -     |
+| 74      | Sulawesi Tenggara         |     done    | done |   done   |
+| 75      | Gorontalo                 |     done    | done |   done   |
+| 76      | Sulawesi Barat            |     done    | done |   done   |
 | 81      | Maluku                    |     done    | done |    -     |
 | 82      | Maluku Utara              |     done    | done |    -     |
 | 91      | Papua                     |     done    | done |    -     |
