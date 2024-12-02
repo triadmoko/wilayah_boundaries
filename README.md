@@ -17,9 +17,9 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 15      | Jambi                     |     done    | done |    -     |
 | 16      | Sumatera Selatan          |     done    | done |    -     |
 | 17      | Bengkulu                  |     done    | done |    -     |
-| 18      | Lampung                   |     done    | done |    -     |
-| 19      | Kepulauan Bangka Belitung |     done    | done |    -     |
-| 21      | Kepulauan Riau            |     done    | done |    -     |
+| 18      | Lampung                   |     done    | done |   done   |
+| 19      | Kepulauan Bangka Belitung |     done    | done |   done   |
+| 21      | Kepulauan Riau            |     done    | done |   done   |
 | 31      | DKI Jakarta               |     done    | done |   done   |
 | 32      | Jawa Barat                |     done    | done |   done   |
 | 33      | Jawa Tengah               |     done    | done |   done   |
