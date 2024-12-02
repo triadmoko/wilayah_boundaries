@@ -42,11 +42,11 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 76      | Sulawesi Barat            |     done    | done |   done   |
 | 81      | Maluku                    |     done    | done |   done   |
 | 82      | Maluku Utara              |     done    | done |   done   |
-| 91      | Papua                     |     done    | done |    -     |
-| 92      | Papua Barat*              |     done    | done |    -     |
-| 93      | Papua Selatan             |     done    | done |    -     |
-| 94      | Papua Tengah              |     done    | done |    -     |
-| 95      | Papua Pegunungan          |     done    | done |    -     |
+| 91      | Papua                     |     done    | done |   done   |
+| 92      | Papua Barat*              |     done    | done |   done   |
+| 93      | Papua Selatan             |     done    | done |   done   |
+| 94      | Papua Tengah              |     done    | done |   done   |
+| 95      | Papua Pegunungan          |     done    | done |   done   |
 | 96*     | Papua Barat Daya*         |       -     |   -  |    -     |
 
 ## NOTE
