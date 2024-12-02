@@ -34,9 +34,9 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 63      | Kalimantan Selatan        |     done    | done |   done   |
 | 64      | Kalimantan Timur          |     done    | done |   done   |
 | 65      | Kalimantan Utara          |     done    | done |   done   |
-| 71      | Sulawesi Utara            |     done    | done |    -     |
-| 72      | Sulawesi Tengah           |     done    | done |    -     |
-| 73      | Sulawesi Selatan          |     done    | done |    -     |
+| 71      | Sulawesi Utara            |     done    | done |   done   |
+| 72      | Sulawesi Tengah           |     done    | done |   done   |
+| 73      | Sulawesi Selatan          |     done    | done |   done   |
 | 74      | Sulawesi Tenggara         |     done    | done |    -     |
 | 75      | Gorontalo                 |     done    | done |    -     |
 | 76      | Sulawesi Barat            |     done    | done |    -     |
