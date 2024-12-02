@@ -11,7 +11,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | id_prov | nama                      | kab / kota  | kec  | kel/desa |
 |---------|---------------------------|------------:|------|---------:|
 | 11      | Aceh                      |     done    | done |   done   |
-| 12      | Sumatera Utara            |     done    | done |    -     |
+| 12      | Sumatera Utara            |     done    | done |   done   |
 | 13      | Sumatera Barat            |     done    | done |    -     |
 | 14      | Riau                      |     done    | done |    -     |
 | 15      | Jambi                     |     done    | done |    -     |
