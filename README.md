@@ -13,10 +13,10 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 | 11      | Aceh                      |     done    | done |   done   |
 | 12      | Sumatera Utara            |     done    | done |   done   |
 | 13      | Sumatera Barat            |     done    | done |   done   |
-| 14      | Riau                      |     done    | done |    -     |
-| 15      | Jambi                     |     done    | done |    -     |
-| 16      | Sumatera Selatan          |     done    | done |    -     |
-| 17      | Bengkulu                  |     done    | done |    -     |
+| 14      | Riau                      |     done    | done |   done   |
+| 15      | Jambi                     |     done    | done |   done   |
+| 16      | Sumatera Selatan          |     done    | done |   done   |
+| 17      | Bengkulu                  |     done    | done |   done   |
 | 18      | Lampung                   |     done    | done |   done   |
 | 19      | Kepulauan Bangka Belitung |     done    | done |   done   |
 | 21      | Kepulauan Riau            |     done    | done |   done   |
@@ -60,9 +60,10 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - Data referensi Kode dan Data Wilayah Administrasi Pemerintahan dan Pulau Indonesia : https://github.com/cahyadsn/wilayah_ref
 
 ## TODO
-- penambahan data boundaries kelurahan/desa (on progress)
+- verifikasi data
 
 ## CHANGE LOG
+- penambahan data boundaries kelurahan/desa (done 24-12-03)
 - penambahan data boundaries kecamatan (done 2024-11-25)
 - penambahan data boundaries kabupaten/kota (done 2024-11-24)
 - penambahan data boundaries provinsi (done 2024-11-21)
