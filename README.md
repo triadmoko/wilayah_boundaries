@@ -12,7 +12,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 |---------|---------------------------|------------:|------|---------:|
 | 11      | Aceh                      |     done    | done |   done   |
 | 12      | Sumatera Utara            |     done    | done |   done   |
-| 13      | Sumatera Barat            |     done    | done |    -     |
+| 13      | Sumatera Barat            |     done    | done |   done   |
 | 14      | Riau                      |     done    | done |    -     |
 | 15      | Jambi                     |     done    | done |    -     |
 | 16      | Sumatera Selatan          |     done    | done |    -     |
