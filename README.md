@@ -64,6 +64,7 @@ Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri N
 - sql syntax postgresql
 
 ## CHANGE LOG
+- script untuk import data ke database (done 2024-12-25)
 - penambahan data boundaries kelurahan/desa (done 24-12-03)
 - penambahan data boundaries kecamatan (done 2024-11-25)
 - penambahan data boundaries kabupaten/kota (done 2024-11-24)
